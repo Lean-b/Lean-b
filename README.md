@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leandro</h1>
 - 🌱 I’m currently learning **Solidity,Rust and Go**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
