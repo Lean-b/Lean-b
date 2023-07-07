@@ -37,9 +37,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Lean-b/Lean-b/output/snake.svg" alt="Snake animation" />
-
-###
